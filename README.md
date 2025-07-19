@@ -11,4 +11,4 @@ This project explores several Bayesian and probabilistic classification methods 
 | **Bayesian Logistic Regression (ADVI)**                 | Bayesian                 | Automatic Differentiation Variational Inference | Scalable approximation of posterior using variational inference            |
 | **Quadratic Discriminant Analysis (QDA)**               | Frequentist              | Closed-form                                     | Assumes Gaussian class-conditional densities with different covariances    |
 | **Naïve Bayes Classifier**                              | Probabilistic Generative | Closed-form                                     | Assumes feature independence given the class                               |
-| **Gaussian Process Classification**                     | Bayesian Nonparametric   | Variational / Laplace / Expectation Propagation | Flexible, kernel-based model with uncertainty estimates                    |
+| **Gaussian Process Classification**                     | Bayesian Nonparametric   | Laplace Approximation                           | Flexible, kernel-based model with uncertainty estimates                    |
